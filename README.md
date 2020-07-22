@@ -6,12 +6,16 @@ Solve the "six eggs" Russian word-play puzzle
 
 ## Puzzle
 
+![Infographic in russian with the puzzle](https://raw.githubusercontent.com/PuzzleLearning/six-eggs/master/six%20eggs.png)
+
 ## Solution
 
 ### How to run
 
+`python solution.py`
+
 ### Tested on
 
 ```
-MacOS, Python 3.7+
+MacOS 10.15, Python 3.7+
 ```
