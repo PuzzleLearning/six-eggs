@@ -1,4 +1,5 @@
-# six-eggs
+# 2x3 Eggs
+
 Solve the "six eggs" Russian word-play puzzle
 
 ## Description
