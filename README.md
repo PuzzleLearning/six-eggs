@@ -12,11 +12,11 @@ The graphic above can be literally translated as:
 
 > I had **6 eggs**:
 >
-> *2* I broke
+> **2** I broke
 >
-> *2* I prepared
+> **2** I prepared
 >
-> and *2* I ate.
+> and **2** I ate.
 
 > How many eggs are left?
 
